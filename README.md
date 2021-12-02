@@ -1,10 +1,17 @@
-#### Hiya! 👋 
+### Hiya! 👋 
 
-I'm Pablo, a plant biologist from the North of Spain with a huge interest in mathematical and statistical modelling. 
+I'm Pablo, a plant biologist from the North of Spain with a huge interest in mathematical and statistical modelling
 - 🌱 I am a 3rd year PhD student in the *University of Leeds*, UK
 - 💻 I am also a MSc student in Bioinformatics and Biostatistics in the *University of Barcelona*, Spain
-- 🎮 In my free time, I love playing videogames 
-- 📫 You can contact me [here](mailto:pablidopsis@gmail.com).
+- 🎮 In my free time, I love playing videogames and watching cringey old rom-coms
+- 📫 You can contact me [here](mailto:pablidopsis@gmail.com)
+
+<br>
+
+#### Languages
+<img height="20" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png"> <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+
+#### Find me
 
 <a href="https://twitter.com/pagosu95">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -18,21 +25,3 @@ I'm Pablo, a plant biologist from the North of Spain with a huge interest in mat
 <a href="https://steamcommunity.com/profiles/76561198181724054/">
   <img align="left" alt="Steam" width="22px" src="https://lh3.googleusercontent.com/proxy/mqEEORCBJP4YgZ0ChtKKi1ze1LZJRM6tHLZw3-C_xYC3rQCnbm6-dUOVSlsLMJ8kbU2w7uqdY3o26EwZ4rflklNK_OroJBE9p334BiSO0MG8e8ph0qCsQLpnESZPb3-IZB79BCL9N_udMVt0_lTVoeCE" />
 </a>
-
-<br>
-
-
-
-<img height="20" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-
-
-- 👋 Hi, I’m @pagosu95
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pagosu95/pagosu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
