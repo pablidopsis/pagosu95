@@ -1,5 +1,7 @@
 #### Hiya! 👋 
 
+My name is Pablo. I am a plant biologist from the North of Spain with a huge interest in mathematical and statistical modelling.
+
 <a href="https://twitter.com/pagosu95">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -12,6 +14,7 @@
 
 <br>
 
+<code><img height="20" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png"></code>
 
 - 👋 Hi, I’m @pagosu95
 - 👀 I’m interested in ...
