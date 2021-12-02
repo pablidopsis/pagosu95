@@ -23,8 +23,7 @@ I'm Pablo, a plant biologist from the North of Spain with a huge interest in mat
 
 
 
-<img height="20" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png">
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+<img height="20" src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
 
 
 - 👋 Hi, I’m @pagosu95
