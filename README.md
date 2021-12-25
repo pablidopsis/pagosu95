@@ -20,6 +20,3 @@ I'm Pablo, a plant biologist from the North of Spain with a huge interest in mat
 <a href="https://open.spotify.com/user/pablo._.13">
   <img align="left" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198181724054/">
-  <img align="left" alt="Steam" width="22px" src="https://lh3.googleusercontent.com/proxy/mqEEORCBJP4YgZ0ChtKKi1ze1LZJRM6tHLZw3-C_xYC3rQCnbm6-dUOVSlsLMJ8kbU2w7uqdY3o26EwZ4rflklNK_OroJBE9p334BiSO0MG8e8ph0qCsQLpnESZPb3-IZB79BCL9N_udMVt0_lTVoeCE" />
-</a>
